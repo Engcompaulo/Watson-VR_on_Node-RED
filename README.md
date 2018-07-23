@@ -25,8 +25,8 @@ https://console.bluemix.net/catalog/services/watson-vision-combined
 ![alt text](https://i.imgur.com/DoyHIjv.png)
 
 
-### 4. Usage:
+### 4. Usage Observations:
 
-#### I. Insert some image URL (.jpeg or .png file)
-#### II. Choose a Classifier ID (All avaiable custom classifier-ids from your Watson VR service will be showed)
-#### III. Hit Ok!
+I. Insert some image URL that ends with '.jpeg' or '.png';
+II. Choose a custom classifier id (all avaiable custom classifier-ids from your Watson VR service will be showed below the fields) or leave 'default' as classifier id, otherwise the WebApp won't work.
+III. Hit Submit button and enjoy the results!

@@ -14,7 +14,7 @@ https://console.bluemix.net/catalog/starters/node-red-starter
 
 https://console.bluemix.net/catalog/services/watson-vision-combined
 
-### 2. Open the Node-RED Flow Editor from the Starter Kit and import the code from the .json file in this repository.
+### 2. Open the Node-RED Flow Editor from the Starter Kit and import the code from the .json file in this repository (Link Below);
 
 Raw Code: https://raw.githubusercontent.com/munhozpf/Watson-VR_on_Node-RED/master/Watson-VR_Node-RED_Flow.json
 
@@ -22,7 +22,7 @@ Raw Code: https://raw.githubusercontent.com/munhozpf/Watson-VR_on_Node-RED/maste
 
 ![alt text](https://i.imgur.com/oG8FYYF.png)
 
-### 3. Setup the Watson VR nodes API-KEYs.
+### 3. Setup the Watson VR nodes API-KEYs;
 
 ![alt text](https://i.imgur.com/DoyHIjv.png)
 

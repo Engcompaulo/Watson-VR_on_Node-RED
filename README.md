@@ -1,13 +1,13 @@
 # Watson Visual Recognition on Node-RED
 
-Using Apache Spark and Python 3.5 Runtimes on Watson Studio for Data Analysis
-
-## Web Address for Testing: 
-
-https://aulao-visual-recognition-2.mybluemix.net/imagem
+Use Watson Visual Recognition standard or custom image classifiers using the Node-RED interface 
 
 ### IBM Cloud Services:
 
-Node-RED Starter Pack
+#### Node-RED Starter Pack: 
 
-Watson Visual Recognition
+https://console.bluemix.net/catalog/starters/node-red-starter
+
+#### Watson Visual Recognition:
+
+https://console.bluemix.net/catalog/services/watson-vision-combined

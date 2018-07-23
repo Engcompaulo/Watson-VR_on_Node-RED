@@ -16,6 +16,8 @@ https://console.bluemix.net/catalog/services/watson-vision-combined
 
 ### 2. Open the Node-RED Flow Editor from the Starter Kit and import the code from the .json file in this repository.
 
+Raw Code: https://raw.githubusercontent.com/munhozpf/Watson-VR_on_Node-RED/master/Watson-VR_Node-RED_Flow.json
+
 #### Node-RED Flow:
 
 ![alt text](https://i.imgur.com/oG8FYYF.png)
